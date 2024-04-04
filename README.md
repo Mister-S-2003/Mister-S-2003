@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mister-s-2003)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mister-s-2003&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-S-2003&show_icons=true&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-S-2003&layout=compact&theme=onedark)
 
 ## My name is Gianni Smit
 
