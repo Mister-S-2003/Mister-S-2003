@@ -1,3 +1,9 @@
+<h1 align="center">Github Stats</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mister-S-2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Commit,PR,Repo,Issue,Follower)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-S-2003)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-S-2003)](https://github.com/anuraghazra/github-readme-stats)
+
 <h1 align="center">My name is Gianni Smit</h1>
 
 <p align="center">
@@ -26,8 +32,3 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
----
-
-# 🏆 **Trophies**
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mister-S-2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
