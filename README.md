@@ -14,7 +14,7 @@
 <br>
 <p>Things I'm planning or doing;</p>
 <ul>
-  <li>Text adventure / RPG game (name pending), Early draft/development stages</li>
+  <li>Endless Adventure; An Text Adventure/RPG -- Early draft/development stages</li>
   <li>Mister-S-2003.github.io -- Probably will be updated at some point to make it look better.</li>
 </ul>
 
