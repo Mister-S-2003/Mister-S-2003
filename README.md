@@ -4,7 +4,7 @@
 <p align="center">
   I'm a 20 year old guy from the Netherlands.<br>
   I like to write code sometimes as a hobby, primarily TS, JS, SQL and PHP.<br>
-  Feel free to contact me (See sidebar of profile)<br>
+  Feel free to contact me (See bolow)<br>
 </p>
 
 ---
@@ -38,3 +38,13 @@ readme stats: https://github.com/anuraghazra/github-readme-stats
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />-->
 </p>
 
+---
+
+## Contact
+
+You can contact me via email: g.a.i.smit2003@gmail.com <br> Or Discord: [Mister.S](https://discord.com/users/667672462825095168)
+
+---
+[![](https://img.shields.io/github/followers/Mister-S-2003?label=Followers&style=social)](https://github.com/Mister-S-2003)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:g.a.i.smit2003@gmail.com)
+[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/definitlyAliveNow)
