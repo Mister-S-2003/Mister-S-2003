@@ -1,16 +1,23 @@
-<h1 align="center">Github Stats</h1>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mister-S-2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Stars,Commit,PR,Repo,Issue,Follower)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mister-S-2003)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-S-2003)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1 align="center">My name is Gianni Smit</h1>
 
 <p align="center">
   I'm a 20 year old guy from the Netherlands.<br>
-  I like to write code sometimes as a hobby, primarily TS/JS, SQL and PHP.<br>
-  Feel free to contact me (See sidebar of profile)
+  I like to write code sometimes as a hobby, primarily TS, JS, SQL and PHP.<br>
+  Feel free to contact me (See sidebar of profile)<br>
 </p>
+
+---
+
+<!-- 
+readme stats: https://github.com/anuraghazra/github-readme-stats 
+-->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mister-S-2003&theme=onedark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-S-2003&theme=onedark" />
+  <a href="https://discord.com/users/667672462825095168"><img width="400" src="https://lanyard.cnrad.dev/api/667672462825095168" /></a>
+</p>
+
 <br>
 <p>Things I'm planning or doing;</p>
 <ul>
@@ -27,6 +34,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />-->
 </p>
+
