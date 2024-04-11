@@ -2,7 +2,7 @@
 <p align="center">
   My name is Gianni Smit, I'm a 20 year old guy from the Netherlands.<br>
   I like to write code sometimes as a hobby, primarily TS, JS, SQL and PHP.<br><br><br>
-  Feel free to contact me (Contact)<br>
+  Feel free to contact me (<a href="#contact">See contact</a>)<br>
 </p>
 <p align="center"><a href="https://discord.com/users/667672462825095168"><img width="400" src="https://lanyard.cnrad.dev/api/667672462825095168" /></a></p>
 
