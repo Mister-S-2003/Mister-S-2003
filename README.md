@@ -8,8 +8,8 @@
 ---
 ## Things I'm planning or doing
 
-- Endless Adventure; An Text Adventure/RPG -- Early draft/development stages</li>
-- Mister-S-2003.github.io -- Probably will be updated at some point to make it look better.</li>
+- Endless Adventure; An Text Adventure/RPG -- Early draft/development stage
+- Mister-S-2003.github.io -- Probably will be updated at some point to make it look better.
 
 ---
 
