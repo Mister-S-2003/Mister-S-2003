@@ -22,7 +22,7 @@ readme stats: https://github.com/anuraghazra/github-readme-stats
 readme trophys: https://github.com/ryo-ma/github-profile-trophy
 -->
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mister-S-2003&include_all_commits=true&theme=onedark" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mister-S-2003&theme=onedark" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-S-2003&theme=onedark&include_all_commits=true" />
   <img src="https://github-profile-trophy.vercel.app/?username=Mister-S-2003&column=4&theme=onedark&no-frame=true&include_all_commits=true"/>
 </p>
