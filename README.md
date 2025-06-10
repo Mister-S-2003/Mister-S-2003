@@ -7,15 +7,6 @@
 
 <p align="center"><sub><sup>PS: very indecisive about how things look without a clear vision (just check this README's commit history)</sup></sub></p>
 
----
-## Things I'm planning or doing
-
-- Endless Adventure; An RPG Text Adventure made in TS -- Early draft/development stage
-- Mister-S-2003.github.io -- Probably will be updated at some point to make it look better.
-- ???
-
----
-
 ## Github Stats
 <!-- 
 readme stats: https://github.com/anuraghazra/github-readme-stats
